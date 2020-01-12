@@ -1,0 +1,1 @@
+php -S shachibook.fun:8000 system/router.php
